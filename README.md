@@ -2,6 +2,7 @@
 
 ### SpaceX API:
 * https://docs.spacexdata.com
+* No API Key needed
 
 ### Example:
 ```sh
